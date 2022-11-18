@@ -1,3 +1,5 @@
+//KRUSKAL ALGORITHM
+
 #include<iostream>
 #include<algorithm>
 #include<vector>
